@@ -63,13 +63,13 @@ storage:
     url: ""
   logs:
     enabled: true
-    url: 
+    url: ""
   reports:
     enabled: true
-    url: 
+    url: ""
   repository:
     enabled: true
-    url:
+    url: ""
 vault:
   name: jx-vault
   aws:
